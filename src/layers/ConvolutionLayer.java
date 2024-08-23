@@ -307,3 +307,4 @@ public class ConvolutionLayer extends Layer{
         return getOutputCols()*getOutputRows()*getOutputLength();
     }
 }
+//.

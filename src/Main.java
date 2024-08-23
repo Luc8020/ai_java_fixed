@@ -41,4 +41,5 @@ public class Main {
         System.out.println(net.guess(test));
     }
 }
+//.
 

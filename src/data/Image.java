@@ -8,7 +8,7 @@ public class Image {
     public double[][] getData() {
         return data;
     }
-
+//.
     public int getLabel() {
         return label;
     }

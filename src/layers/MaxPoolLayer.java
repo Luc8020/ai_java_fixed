@@ -15,7 +15,7 @@ public class MaxPoolLayer extends Layer{
     List<int[][]> _lastMaxRow;
     List<int[][]> _lastMaxCol;
 
-
+//.
     public MaxPoolLayer(int _stepSize, int _windowSize, int _inLength, int _inRows, int _inCols) {
         this._stepSize = _stepSize;
         this._windowSize = _windowSize;

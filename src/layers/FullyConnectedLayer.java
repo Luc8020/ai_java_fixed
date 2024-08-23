@@ -16,7 +16,7 @@ public class FullyConnectedLayer extends Layer{
     private double[] lastZ;
     private double[] lastX;
 
-
+//.
     public FullyConnectedLayer(int _inLength, int _outLength, long SEED, double learningRate) {
         this._inLength = _inLength;
         this._outLength = _outLength;

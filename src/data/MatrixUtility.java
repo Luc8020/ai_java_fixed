@@ -15,7 +15,7 @@ public class MatrixUtility {
         return out;
 
     }
-
+//.
     public static double[] add(double[] a, double[] b){
 
         double[] out = new double[a.length];
